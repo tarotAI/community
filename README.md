@@ -18,4 +18,4 @@ Community Outreach: Zhaomao Mai
 Feel free to join in! All welcome. Your best to start is probably either in contributing.md or in the issues.
 
 
-This repository falls under the Code of Conduct.
+This repository falls under the Code of Conduct [Code of Conduct](https://github.com/tarotAI/community/blob/master/code-of-conduct.md).
