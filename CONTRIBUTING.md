@@ -2,7 +2,7 @@
 
 
 
-Want to hack on PAS? Awesome! Here are instructions to get you started. They are not perfect yet. Please let us know what feels wrong or incomplete.
+Want to hack on tarotAI PAS? Awesome! Here are instructions to get you started. They are not perfect yet. Please let us know what feels wrong or incomplete.
 
 PAS is an Open Source project and we welcome contributions of all sorts. There are many ways to help, from reporting issues, contributing code, and helping us improve our community.
 
@@ -21,8 +21,6 @@ PAS is an Open Source project and we welcome contributions of all sorts. There a
   - [Discuss big changes as Issues first](#discuss-big-changes-as-issues-first)
   - [Pull Requests always welcome](#pull-requests-always-welcome)
   - [Conventions](#conventions)
-    - [Go Code Contributing Guidelines](#go)
-    - [JavaScript  Code Contributing Guidelines](#javascript)
     - [Git](#git)
     - [Commit messages](#commit-messages)
       - [Subject line should not be more than 80 characters long](#subject-line-should-not-be-more-than-80-characters-long)
