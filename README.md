@@ -3,8 +3,10 @@
 ## About
 The tarot AI community is growing, and already has many resources. We ought to maintain them, build more, and improve all the things. This repository is for meta, non-code discussions and for documents used by multiple repositories, such as the various Contributing guidelines.
 
-## Core Authors
+## Project Lead
  * Larry Liu - 刘栋
+
+## Core Authors
  * Ruopeng Yang - 杨若鹏
  * Wanjiang Yan - 闫万江
  * Shiwei Zhang - 张世伟
